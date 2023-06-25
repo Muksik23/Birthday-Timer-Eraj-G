@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: '13, Feb, 2023',
+  birthdate: '18, Sep, 2023',
   name: 'Shoni My Barbie Doll Eraj G'
 };
 
