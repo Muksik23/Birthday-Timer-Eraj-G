@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: '13, Feb, 2023',
-  name: 'Eraj G'
+  name: 'Shoni My Barbie Doll Eraj G'
 };
 
 function hideEverything() {
